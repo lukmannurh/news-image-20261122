@@ -9,6 +9,14 @@
 - Deadline: 24 Nov 2026 07:00 WIB (2026-11-23T17:00:00Z). Results due: 8 Dec 2026.
 - Prize: $100 total, top 50 share ($20 1st, $12 2nd, $6 3rd, $2 4th-10th, $1.20 11th-50th)
 
+## Submission (v3) — ACCEPTED 23 Nov 2026 ~12:20 WIB
+
+- Submission: 01a206d8-c849-7727-930f-c8eb7bf20f4d, stage "checked" (all server checks passed)
+- Commit: f3f6ca943f3f138d02d077f5d7710cae2c03c5a7 (owner.json added after a first 422 repo_not_owned refusal — no slot burned; first attempt refused, second accepted)
+- Bundle: ~/workspace/makefun/transcripts-news-image-20261122-v3.tar.gz (sha256 8d9787640d7943aa9c14c6e154385c2957c0e88e8faa1c1a13ab28038d5c19de)
+- Claim code: AF-873CK-NYT4P-MCC35-3S68H (ONLY in this LEDGER — never in chat)
+- Force_Last: v3 replaces v2's score (judge 975976, rank 2094/12828).
+
 ## v3 image (local test)
 
 - Program: main.ts (Node 22, standard library only: node:fs + node:zlib)
